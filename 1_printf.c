@@ -7,7 +7,8 @@
 */
 #include <stdio.h>
 
-// main is the function that is where computer satrts executing the program. It must be named otherwise it will not be executed.
+// main is the function that is where computer satrts executing the program.
+// It must be named otherwise it will not be executed.
 
 int main()
 {
@@ -15,6 +16,8 @@ int main()
     // We use the printf() function to print things on the console i.e cmd.
     printf("Hello World");
 
-    // We return 0 in main function to indicate the operating system that program was successfully terminated. If 1 is returned, that means unsuccessful termination.
+    // We return 0 in main function to indicate the
+    // operating system that program was successfully terminated.
+    // If 1 is returned, that means unsuccessful termination.
     return 0;
 }
